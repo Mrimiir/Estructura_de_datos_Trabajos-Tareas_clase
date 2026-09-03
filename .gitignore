@@ -1,0 +1,6 @@
+#Ignora todos los ejecutables *.exe, que se crearon al compilar los programas de C++
+*.exe
+./output/
+
+#Visual Studio Code
+.vscode/
