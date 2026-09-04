@@ -21,7 +21,7 @@ if __name__ == '__main__':      #iniciamos bloque de codigo principal
 
     index = find_elem(input_arr, s, elem)  #llamamos a la funcion de busqueda
     if (index != -1):
-        print("El elemento", elem, "fue encontrado en la posicion: " + str(index + 1))        #imprime la posicion del elemento, 1 hasta n para un conteo normal(1,2,3,4...)
+        print(f"El elemento {elem} fue encontrado en la posicion: " + str(index + 1))        #imprime la posicion del elemento, 1 hasta n para un conteo normal(1,2,3,4...)
     else:
         print("El elemento", elem, "no fue encontrado en el arreglo.")
 

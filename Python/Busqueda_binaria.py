@@ -27,8 +27,6 @@ if __name__ == '__main__':
 
     #si el arreglo no esta ordenado, se ordena como en este caso
     input_arr.sort()  # Ordena el arreglo de manera ascendente
-    for j in range(s):
-        print(input_arr[j], end=" ")  #imprime el arreglo ordenado
 
     print()
 
