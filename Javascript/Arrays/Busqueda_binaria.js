@@ -35,7 +35,7 @@ function main() {
 
     //ordena el arreglo porque en este caso es necesario
     input_arr.sort();
-    console.log(input_arr)
+    //console.log(input_arr)  // para imprimir el arreglo ordenado
 
     const index = find_elem(input_arr, 0, s - 1, elem);
     if (index != -1){

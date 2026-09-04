@@ -1,5 +1,5 @@
 /*
-Arrays en Javascript,Insercion en el primer elemento de un array.
+Arrays en Javascript,Insercion en el ultimo elemento de un array.
 @Autor: Daniel Alejandro Alvarado Velázquez
 @grupo: #2-02
 @Fecha: 03/09/2026
