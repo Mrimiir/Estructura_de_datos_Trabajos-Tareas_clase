@@ -1,5 +1,5 @@
 ''' 
-Arrays en Python, Sintaxis básica de Python para escribir un array y manipular sus elementos.
+Arrays en Python, Sintaxis básica de Python para escribir un array.
 @Autor: Daniel Alejandro Alvarado Velázquez
 @grupo: #2-02
 @Fecha: 02/09/2026
@@ -44,13 +44,3 @@ len(my_array)    # -> 5  (longitud)
 sum(my_array)    # -> 15 (suma)
 sorted(my_array) # -> [1, 2, 3, 4, 5] (devuelve lista nueva ordenada) / Ya estaba ordenada
 #hay mas pero esta son las mas comunes
-
-# MATRICES
-#sintaxis para una matriz 3x3 
-my_matriz = [[1, 2, 3], 
-             [4, 5, 6], 
-             [7, 8, 9]]
-
-print("El elemento en la posición [0][1] de la matriz es:", my_matriz[0][1])  #imprime una posicion especifica de la matriz
-print("La matriz completa es: ", my_matriz)    #imprime la matriz completa
-print("La segunda fila de la matriz es: ", my_matriz[1]) #imprime la segunda fila de la matriz
