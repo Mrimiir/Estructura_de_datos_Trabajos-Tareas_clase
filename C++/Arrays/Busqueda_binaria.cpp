@@ -13,7 +13,7 @@ Nota: La busqueda binaria es un algoritmo de busqueda eficiente que requiere que
 
 int find_elem(int arreglo[], int l, int h, int elemento){
     while (l <= h){
-        int mid = trunc(l + (h - 1)/2);     //truncamos el resultamo para que de un numero entero
+        int mid = trunc(l + (h - l)/2);     //truncamos el resultamo para que de un numero entero
         if (arreglo[mid] == elemento){
             return mid;
         }

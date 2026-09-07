@@ -13,7 +13,7 @@ public class Busqueda_binaria {
     //Funcion de busqueda
     public static int find_elem(int[] arreglo, int l, int h, int elemento){
         while (l <= h){
-            int mid = (int) l + (h - 1) /2;
+            int mid = (int) l + (h - l) /2;
             if (arreglo[mid] == elemento){      // Verifica si el elemento está presente en el medio
             return mid;                      // Elemento encontrado, devuelve el índice
         }
