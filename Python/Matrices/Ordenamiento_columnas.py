@@ -64,3 +64,7 @@ print("\nLos elementos del array unidimencional son: ")
 for x in range(r):
     for y in range(c):
         print((arr[x * r + y]), end = " ")
+#otra forma de imprimir
+print()        
+for elem in arr:
+    print(elem, end = " ")
