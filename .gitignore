@@ -7,3 +7,6 @@
 
 #Visual Studio Code
 .vscode/
+
+#nose porque salio un archivo .log
+*.log
