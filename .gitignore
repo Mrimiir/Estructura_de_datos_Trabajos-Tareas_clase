@@ -3,7 +3,7 @@
 ./output/
 
 #Java
-.class
+*.class
 
 #Visual Studio Code
 .vscode/
