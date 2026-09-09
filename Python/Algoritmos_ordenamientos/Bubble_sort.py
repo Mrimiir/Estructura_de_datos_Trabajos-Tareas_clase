@@ -2,7 +2,7 @@
 Algoritmos de ordenamiento en Python, algoritmos que nos ayudan a ordenar los arreglos para optimizar su busqueda.
 @Autor: Daniel Alejandro Alvarado Velázquez
 @grupo: #2-02
-@Fecha: 02/09/2026
+@Fecha: 08/09/2026
 
 Nota: Para algoritmos de busqueda  como la busqueda binaria es necesario tener ordenado el arreglo,
 pero en alguno casos este no esta ordenado y estos algoritmos de ordenamiento resuelven ese problema
