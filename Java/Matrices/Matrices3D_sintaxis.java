@@ -1,11 +1,11 @@
 /*
-Matrices en javascript, Sintaxis básica de Python para escribir un arreglo de 3 dimensiones.
+Matrices en Java, Sintaxis básica de Javas para escribir un arreglo de 3 dimensiones.
 @Autor: Daniel Alejandro Alvarado Velázquez
 @grupo: #2-02
 @Fecha: 08/09/2026
 */
 
-class Matrices3D_sintaxis{
+public class Matrices3D_sintaxis{
     public static void main(String[] args){
         // Sintaxis de un arreglo tridimencional
         int[][][] Three_dimensional_array = new int[][][] {

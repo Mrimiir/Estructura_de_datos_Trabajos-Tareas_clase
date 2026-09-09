@@ -1,11 +1,11 @@
 /*
-Matrices en Java, Sintaxis básica de Python para escribir un arreglo de 2 dimenciones.
+Matrices en Java, Sintaxis básica de Java para escribir un arreglo de 2 dimenciones.
 @Autor: Daniel Alejandro Alvarado Velázquez
 @grupo: #2-02
 @Fecha: 08/09/2026
 */
 
-class Matrices2D_sintaxis{
+public class Matrices2D_sintaxis{
     public static void main(String[] args){
         // Sintaxis de un arreglo bidimencional
         int[][] Two_dimensional_array = new int[][] {

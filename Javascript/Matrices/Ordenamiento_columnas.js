@@ -1,5 +1,5 @@
 /*
-Mapeo de una matriz 2D a una matriz 1D en Python, las matrices por defecto se ordenan por mediante sus columnas.
+Mapeo de una matriz 2D a una matriz 1D en Javascript, las matrices por defecto se ordenan por mediante sus columnas.
 @Autor: Daniel Alejandro Alvarado Velázquez
 @grupo: #2-02
 @Fecha: 07/09/2026

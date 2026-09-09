@@ -1,5 +1,5 @@
 /*
-Matrices en javascript, Sintaxis básica de Python para escribir un arreglo de 3 dimensiones.
+Matrices en javascript, Sintaxis básica de Javascript para escribir un arreglo de 3 dimensiones.
 @Autor: Daniel Alejandro Alvarado Velázquez
 @grupo: #2-02
 @Fecha: 07/09/2026
