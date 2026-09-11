@@ -1,5 +1,5 @@
 /*
-Algoritmos de ordenamiento en Python, algoritmos que nos ayudan a ordenar los arreglos para optimizar su busqueda.
+Algoritmos de ordenamiento en Javascript, algoritmos que nos ayudan a ordenar los arreglos para optimizar su busqueda.
 @Autor: Daniel Alejandro Alvarado Velázquez
 @grupo: #2-02
 @Fecha: 10/09/2026
