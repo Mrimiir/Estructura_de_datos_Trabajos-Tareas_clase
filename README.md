@@ -2,7 +2,7 @@
 
 ## Autor
 
--[@Mrimiir](https://github.com/Mrimiir)
+- [@Mrimiir](https://github.com/Mrimiir)
 
 ### Descripción
 
@@ -20,6 +20,6 @@ algoritmos se repiten para cada lenguaje que en este caso se esan viendo 5 lengu
 
 ### Estado
 
--*En desarrollo*-
+- *En desarrollo*
 
 ## Gracias por su visita :3
