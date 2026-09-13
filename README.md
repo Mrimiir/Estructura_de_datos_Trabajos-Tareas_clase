@@ -22,4 +22,4 @@ algoritmos se repiten para cada lenguaje que en este caso se esan viendo 5 lengu
 
 -*En desarrollo*-
 
-## Gracias por su interes
+## Gracias por su visita :3
